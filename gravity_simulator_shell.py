@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 20 14:47:27 2020
-
+jbbjrbnjbrc
 @author: edwintomy
 """
 
@@ -18,6 +18,7 @@ upper_border = 5
 time_step = 0.0001
 soften = 1 #exponente^(-r/lamba)
 lam = 0.1
+
 
 class Particle():
     def __init__(self, mass, vel, x_pos, rad = 0.1):
